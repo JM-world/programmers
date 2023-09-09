@@ -1,4 +1,4 @@
 def solution(num_list, n):
-    a = num_list[n:]
-    a += (num_list[:n])
-    return a
+    num = num_list[n:]
+    num += (num_list[:n])
+    return num
