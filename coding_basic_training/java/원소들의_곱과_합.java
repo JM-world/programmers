@@ -1,7 +1,3 @@
-<<<<<<<< HEAD:coding_basic_training/원소들의_곱과_합.java
-package 코딩_기초_트레이닝;
-========
->>>>>>>> d903be9 (programmers):coding_basic_training/java/원소들의_곱과_합.java
 
 public class 원소들의_곱과_합 {
     
