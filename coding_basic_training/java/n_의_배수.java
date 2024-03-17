@@ -1,8 +1,3 @@
-<<<<<<<< HEAD:coding_basic_training/n_의_배수.java
-package 코딩_기초_트레이닝;
-========
->>>>>>>> d903be9 (programmers):coding_basic_training/java/n_의_배수.java
-
 public class n_의_배수 {
     
 }
