@@ -1,8 +1,3 @@
-<<<<<<<< HEAD:coding_basic_training/n개_간격의_원소들.java
-package 코딩_기초_트레이닝;
-========
->>>>>>>> d903be9 (programmers):coding_basic_training/java/n개_간격의_원소들.java
-
 public class n개_간격의_원소들 {
     
 }
