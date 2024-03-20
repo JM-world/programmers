@@ -1,8 +1,3 @@
-<<<<<<<< HEAD:coding_basic_training/마지막_두_원소.java
-package 코딩_기초_트레이닝;
-========
->>>>>>>> d903be9 (programmers):coding_basic_training/java/마지막_두_원소.java
-
 public class 마지막_두_원소 {
     
 }
