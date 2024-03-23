@@ -1,8 +1,3 @@
-<<<<<<<< HEAD:coding_basic_training/더_크게_합치기.java
-package 코딩_기초_트레이닝;
-========
->>>>>>>> d903be9 (programmers):coding_basic_training/java/더_크게_합치기.java
-
 public class 더_크게_합치기 {
     
 }
